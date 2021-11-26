@@ -1,0 +1,1 @@
+.gifs{height:min-content;position:relative;display:inline-block;background:var(--gray);margin:.6rem;transition:transform .1s ease-in-out}.gifSpan{position:absolute;width:100%;background:rgba(46,46,46,.6);bottom:0;padding:.2rem 0;margin:0 0 .5rem;font-size:.8rem;color:var(--contrast)}.imgGif{object-fit:contain}.gifs:hover{transform:scale(1.02);box-shadow:0 0 12px 1px #0003}
