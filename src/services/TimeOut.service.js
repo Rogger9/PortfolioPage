@@ -1,0 +1,1 @@
+export const TimeOut={set:(e,t)=>window.setTimeout(e,t),clear:e=>window.clearTimeout(e)};

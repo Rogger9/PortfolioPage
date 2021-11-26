@@ -1,0 +1,1 @@
+export const LocalStorage={set:(t,e)=>window.localStorage.setItem(t,e),get:t=>window.localStorage.getItem(t)};

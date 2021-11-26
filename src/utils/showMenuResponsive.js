@@ -1,0 +1,1 @@
+export const showMenuResponsive=s=>s.classList.toggle("nav-responsive");
