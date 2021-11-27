@@ -1,0 +1,2 @@
+(this["webpackJsonpecommerce-app"]=this["webpackJsonpecommerce-app"]||[]).push([[8],{60:function(e,c,n){"use strict";n.r(c);var t=n(0),r=n(40),u=n(3),p=function(e){var c=e.subMenu;return Object(u.jsx)("ul",{children:c.map((function(e){return Object(u.jsx)(r.a,{children:e},e)}))})};c.default=Object(t.memo)(p)}}]);
+//# sourceMappingURL=8.71a848ae.chunk.js.map
