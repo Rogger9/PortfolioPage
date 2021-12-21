@@ -1,0 +1,1 @@
+import{L as a}from"./vendor.57fc9f09.js";import{a as e,F as n,j as s,$ as r}from"./index.cd3b3ec6.js";import{I as o}from"./FormFlex.b0e395a3.js";const f=()=>e(n,{children:[s(o,{iconStyle:"fas",icon:"heart"}),s(a,{to:r,children:s(o,{iconStyle:"fas",icon:"sign-out-alt"})})]});export{f as default};
