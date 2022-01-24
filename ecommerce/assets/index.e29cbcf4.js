@@ -1,7 +1,10 @@
-import{D as t,a as o,j as r,_ as n,c as l,d as m}from"./index.cd3b3ec6.js";import{s as e,L as a,r as s,u as p,R as h,a as c}from"./vendor.57fc9f09.js";import{F as g,I as i}from"./FormFlex.b0e395a3.js";const v=e(t)`
+import{D as i,a as o,j as e,_ as n,i as l,k as m}from"./index.0b240d60.js";import{s as r,L as t,r as s,u as p,R as h,a as c}from"./vendor.c609d83d.js";import a from"./Icon.26cab0f1.js";const g=r.form`
   width: 70%;
   min-height: 28rem;
   background: var(--contrast);
+  display: flex;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
   justify-content: space-evenly;
   border-radius: .4rem;
@@ -44,8 +47,11 @@ import{D as t,a as o,j as r,_ as n,c as l,d as m}from"./index.cd3b3ec6.js";impor
 
     h2 { font-size: 1.1rem; margin: .4rem 0; }
   }
-`,O=e(g)`
+`,S=r.form`
   width: 66%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
   gap: 1.2rem;
   padding: .4rem;
@@ -57,7 +63,7 @@ import{D as t,a as o,j as r,_ as n,c as l,d as m}from"./index.cd3b3ec6.js";impor
   @media ( max-width: 320px ) {
     width: 90%;
   }
-`,F=e.div`
+`,O=r.div`
   position: relative;
   width: 90%;
   height: 2.4rem;
@@ -102,7 +108,7 @@ import{D as t,a as o,j as r,_ as n,c as l,d as m}from"./index.cd3b3ec6.js";impor
       ;
     }
   }
-`,f=e(t)`
+`,f=r(i)`
   width: 60%;
   position: relative;
   margin: 1rem 0;
@@ -116,7 +122,7 @@ import{D as t,a as o,j as r,_ as n,c as l,d as m}from"./index.cd3b3ec6.js";impor
     padding: 0 .4rem;
     font-weight: bold;
   }
-`,x=e(t)`
+`,v=r(i)`
   height: 2rem;
   gap: 2rem;
   margin: 1rem 0;
@@ -145,4 +151,4 @@ import{D as t,a as o,j as r,_ as n,c as l,d as m}from"./index.cd3b3ec6.js";impor
   @media (max-width: 380px) {
     gap: 1rem;
   }
-`,b=()=>o(x,{children:[r("span",{children:"Inicia sesi\xF3n con"}),r(a,{to:"https://google.com",target:"_blank",rel:"noopener noreferrer",children:r(i,{iconStyle:"fab",icon:"google"})}),r(a,{to:"https://facebook.com",target:"_blank",rel:"noopener noreferrer",children:r(i,{iconStyle:"fab",icon:"facebook-f"})})]}),u=s.exports.lazy(()=>n(()=>import("./index.0cdbcf66.js"),["assets/index.0cdbcf66.js","assets/vendor.57fc9f09.js","assets/index.cd3b3ec6.js","assets/Form.5c60dab5.js","assets/Button.05ff211a.js","assets/FormFlex.b0e395a3.js"])),w=s.exports.lazy(()=>n(()=>import("./index.f3b24ac6.js"),["assets/index.f3b24ac6.js","assets/Form.5c60dab5.js","assets/Button.05ff211a.js","assets/vendor.57fc9f09.js","assets/index.cd3b3ec6.js","assets/FormFlex.b0e395a3.js"])),y=()=>{const d=p();return o(v,{children:[r(i,{iconStyle:"fas",icon:"arrow-alt-circle-left",handleClick:()=>d(-1)}),o(h,{children:[r(c,{path:l,element:r(u,{})}),r(c,{path:m,element:r(w,{})})]}),o(f,{children:[r("hr",{}),r("span",{children:"Or"})]}),r(b,{}),r(a,{to:"#",children:"Pol\xEDticas de privacidad"})]})};var L=Object.freeze({__proto__:null,[Symbol.toStringTag]:"Module",default:y});export{F as S,O as a,L as i};
+`,x=()=>o(v,{children:[e("span",{children:"Inicia sesi\xF3n con"}),e(t,{to:"https://google.com",target:"_blank",rel:"noopener noreferrer",children:e(a,{iconStyle:"fab",icon:"google"})}),e(t,{to:"https://facebook.com",target:"_blank",rel:"noopener noreferrer",children:e(a,{iconStyle:"fab",icon:"facebook-f"})})]}),u=s.exports.lazy(()=>n(()=>import("./index.fe551058.js"),["assets/index.fe551058.js","assets/vendor.c609d83d.js","assets/index.0b240d60.js","assets/Form.330320e6.js","assets/Button.4fe55535.js","assets/Icon.26cab0f1.js"])),b=s.exports.lazy(()=>n(()=>import("./index.68822c86.js"),["assets/index.68822c86.js","assets/Form.330320e6.js","assets/Button.4fe55535.js","assets/vendor.c609d83d.js","assets/index.0b240d60.js","assets/Icon.26cab0f1.js"])),y=()=>{const d=p();return o(g,{children:[e(a,{iconStyle:"fas",icon:"arrow-alt-circle-left",handleClick:()=>d(-1)}),o(h,{children:[e(c,{path:l,element:e(u,{})}),e(c,{path:m,element:e(b,{})})]}),o(f,{children:[e("hr",{}),e("span",{children:"Or"})]}),e(x,{}),e(t,{to:"#",children:"Pol\xEDticas de privacidad"})]})};var L=Object.freeze({__proto__:null,[Symbol.toStringTag]:"Module",default:y});export{O as S,S as a,L as i};

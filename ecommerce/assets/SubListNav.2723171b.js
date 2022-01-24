@@ -1,1 +1,0 @@
-import{L as t}from"./vendor.57fc9f09.js";import{b as i,c as a}from"./index.c14e26ae.js";import{j as e}from"./index.cd3b3ec6.js";import"./Button.05ff211a.js";import"./FormFlex.b0e395a3.js";const f=({subMenu:r})=>e(i,{children:r.map(o=>e(a,{children:e(t,{to:"#",children:o})},o))});export{f as default};

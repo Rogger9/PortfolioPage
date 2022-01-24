@@ -1,0 +1,1 @@
+import{L as r}from"./vendor.c609d83d.js";import{j as o,$ as s,b as a}from"./index.0b240d60.js";import{d as i,e as n}from"./index.0b623121.js";import"./Button.4fe55535.js";import"./Icon.26cab0f1.js";const d=e=>{const t=e.replace(/\s/g,"-");return s+a+"/"+t},f=({subMenu:e})=>o(i,{children:e.map(t=>o(n,{children:o(r,{to:d(t),children:t})},t))});export{f as default};
