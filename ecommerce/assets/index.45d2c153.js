@@ -1,4 +1,4 @@
-import{s as o}from"./vendor.c609d83d.js";import{D as c,a as s,j as r}from"./index.0b240d60.js";import{b as t}from"./index.0b623121.js";import"./Button.4fe55535.js";import"./Icon.26cab0f1.js";const n=[{title:"Your Orders",description:"Track packages, Edit or cancel orders"},{title:"Digital Services and Device Support",description:"Troubleshoot device issues"},{title:"Your Account",description:"Manage your account preferences"}],a=o(t)`
+import{s as o}from"./vendor.c609d83d.js";import{D as c,a as s,j as r}from"./index.89b498a4.js";import{b as t}from"./index.1a48ca89.js";import"./Button.89b80c69.js";import"./Icon.82250f91.js";const n=[{title:"Your Orders",description:"Track packages, Edit or cancel orders"},{title:"Digital Services and Device Support",description:"Troubleshoot device issues"},{title:"Your Account",description:"Manage your account preferences"}],a=o(t)`
   flex-direction: column;
   gap: 4rem;
   animation: moveDown .4s ease-in;
