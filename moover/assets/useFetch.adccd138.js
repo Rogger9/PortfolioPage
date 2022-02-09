@@ -1,0 +1,1 @@
+import{r as t}from"./vendor.48299357.js";const o="https://enigmatic-forest-68431.herokuapp.com/api/moover",l=({route:e})=>{const[r,a]=t.exports.useState(null),[n,s]=t.exports.useState(!1),[c,p]=t.exports.useState(!1);return t.exports.useEffect(()=>{s(!0),fetch(o+e).then(u=>u.json()).then(a).catch(p).finally(()=>s(!1))},[o,e]),{data:r,loading:n,error:c}};export{l as u};
