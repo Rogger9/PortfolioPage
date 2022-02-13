@@ -1,1 +1,0 @@
-import{TimeOut}from"../services/TimeOut.service.js";export const showMsgForm=e=>{e.style.display="flex",TimeOut.set((()=>e.style.display="none"),3e3)};

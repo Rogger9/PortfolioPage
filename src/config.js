@@ -1,1 +1,0 @@
-export const API_URL="https://glacial-plains-61785.herokuapp.com/api/send-email";export const optionsFetch=o=>({method:"POST",body:o});

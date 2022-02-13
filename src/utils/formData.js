@@ -1,1 +1,0 @@
-export const formData=a=>{const r=new FormData(a),t=new URLSearchParams;for(let a of r)t.append(a[0],a[1]);return{data:t}};
