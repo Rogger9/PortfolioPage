@@ -1,0 +1,1 @@
+import{L as t}from"./vendor.2d1551c5.js";import{a as e,j as s}from"./index.e0302d02.js";const r=()=>e("section",{className:"grid place-items-center font-bold text-3xl gap-8",children:[s("h1",{children:"Sorry! This page does not exist."}),e("h2",{children:["Go ",s(t,{to:"/recipes",className:"text-cyan-500",children:"Home"})]})]});export{r as default};
