@@ -1,0 +1,1 @@
+import{LocalStorage}from"../services/localStorage.service.js";export const saveTheme=(e,o)=>LocalStorage.set(e,o);export const getThemeUser=e=>LocalStorage.get(e);export const changeStyle=(e,o)=>e.classList.toggle(o);

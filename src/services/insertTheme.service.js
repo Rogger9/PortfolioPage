@@ -1,0 +1,1 @@
+export const insertTheme=(t,e)=>document.body.setAttribute(t,e);

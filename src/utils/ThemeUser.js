@@ -1,1 +1,0 @@
-import{LocalStorage}from"../services/LocalStorage.service.js";export const setThemeUser=(e,o)=>LocalStorage.set(e,o);export const getThemeUser=e=>LocalStorage.get(e);
