@@ -1,0 +1,1 @@
+import{c as o}from"./index.4b0a0dd8.js";import{j as d}from"./index.360d6466.js";import"./vendor.c609d83d.js";import"./Button.59224164.js";import"./Icon.77b6499d.js";const c=()=>d(o,{children:d("h1",{children:"Sorry! This page could not be accessed"})});export{c as default};

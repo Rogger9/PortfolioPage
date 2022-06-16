@@ -1,0 +1,1 @@
+import{L as n}from"./vendor.c609d83d.js";import{a,F as t,j as o,$ as r}from"./index.360d6466.js";import s from"./Icon.77b6499d.js";const d=()=>a(t,{children:[o(s,{iconStyle:"fas",icon:"heart"}),o(n,{to:r,children:o(s,{iconStyle:"fas",icon:"sign-out-alt"})})]});export{d as default};

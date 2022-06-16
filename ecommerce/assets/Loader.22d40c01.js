@@ -1,4 +1,4 @@
-import{s as o}from"./vendor.c609d83d.js";import{j as r}from"./index.89b498a4.js";const t=o.span`
+import{s as o}from"./vendor.c609d83d.js";import{j as r}from"./index.360d6466.js";const t=o.span`
   width: 48px;
   height: 48px;
   border: 5px solid var(--fontColor);
@@ -16,4 +16,4 @@ import{s as o}from"./vendor.c609d83d.js";import{j as r}from"./index.89b498a4.js"
   100% {
     transform: rotate(360deg);
   }
-`,i=()=>r(t,{});export{i as default};
+`,d=()=>r(t,{});export{d as default};
