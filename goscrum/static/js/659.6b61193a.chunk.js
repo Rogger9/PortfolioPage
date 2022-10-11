@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoscrum=self.webpackChunkgoscrum||[]).push([[659],{8659:function(e,s,r){r.r(s);var n=r(6871),c=r(3504),u=r(7551),i=r(684),t=r(3082),a=r(184);s.default=function(){var e=(0,n.UO)().teamID;return(0,a.jsx)(u.Z,{children:(0,a.jsxs)(i.F,{children:[(0,a.jsxs)("h1",{children:["El team ID de tu equipo es: ",e]}),(0,a.jsx)(c.rU,{to:t.ym,children:"Ir a Iniciar sesi\xf3n"})]})})}}}]);
+//# sourceMappingURL=659.6b61193a.chunk.js.map
